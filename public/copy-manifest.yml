@@ -1,7 +1,8 @@
-application-id: dan-website
-schema-version: '0.0.1'
-changeset-id: 7173a7f4-8ce8-412a-b4b5-8fc8a319c795
-copy-tree:
+id: 7173a7f4-8ce8-412a-b4b5-8fc8a319c795
+cms-version: '0.0.1'
+application-name: dan-website
+schema-version: '0.1.0'
+copy-source-map:
   site-header: a17db74d-726e-41cd-8344-40056fbbcb54
   site-footer: c3ff94d9-32c5-422d-951a-fe28c67b8d79 
   home-page:
