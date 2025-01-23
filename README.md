@@ -1,5 +1,7 @@
 # Simple Content Management System (CMS)
 
+**Notice: This project is currently WIP**
+
 The core goal of this project is to create an open source CMS that both:
 - Easy for technical people to configure and maintain,
 - Provides an intuitive user interface for non-technical people to maintain their content.
